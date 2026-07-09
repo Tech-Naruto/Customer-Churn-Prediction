@@ -42,11 +42,14 @@ Make sure you have Miniconda/Anaconda installed on your machine.
 
 ### Installation Steps
 1. Clone the repository:
+   ```bash
    git clone <your-github-repo-link>
    cd "Churn Prediction"
 
 2. Install dependencies:
+   ```bash
    pip install -r requirements.txt
 
 3. Run the application:
+   ```bash
    streamlit run app.py
