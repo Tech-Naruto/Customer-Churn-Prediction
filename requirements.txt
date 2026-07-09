@@ -1,0 +1,9 @@
+pandas
+matplotlib
+numpy
+sklearn
+pickle
+streamlit
+keras
+torch
+torchvision
